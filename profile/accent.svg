@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="34" height="8" viewBox="0 0 34 8" role="img" aria-label="David Ifeanyi accent"><circle cx="4" cy="4" r="3.5" fill="#4632DA"/><circle cx="17" cy="4" r="3.5" fill="#06D9FA"/><circle cx="30" cy="4" r="3.5" fill="#4632DA"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="12" viewBox="0 0 42 12" role="img" aria-label="Connected systems mark">
+<path d="M3 6h8M31 6h8M11 6l5-4M11 6l5 4M31 6l-5-4M31 6l-5 4" fill="none" stroke="#4632DA" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="11" cy="6" r="3" fill="#4632DA"/>
+<circle cx="21" cy="6" r="3" fill="#06D9FA"/>
+<circle cx="31" cy="6" r="3" fill="#4632DA"/>
+</svg>
