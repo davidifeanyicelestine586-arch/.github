@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./accent.svg" width="34" height="8" alt="" />
+
 # DAVID IFEANYI
 
 ### Mechatronics Engineering · Software & Web Development · Technical Systems
@@ -14,7 +16,7 @@
 
 <p align="center"><strong><a href="#01--about">ABOUT</a></strong> · <strong><a href="#02--work">WORK</a></strong> · <strong><a href="#03--stack">STACK</a></strong> · <strong><a href="#04--engineering">ENGINEERING</a></strong> · <strong><a href="#05--contact">CONTACT</a></strong></p>
 
-## <span style="color:#4632DA">01 / ABOUT</span>
+## 01 / ABOUT
 
 I'm David Ifeanyi, a Mechatronics Engineering student developing practical experience in software and web development.
 
@@ -30,17 +32,17 @@ That engineering background shapes how I approach software:
 | **Reliability** | Assumptions challenged through debugging |
 | **Maintainability** | Decisions that another developer can understand |
 
-### <span style="color:#06D9FA">Build philosophy</span>
+### Build philosophy
 
 **BUILD → BREAK → UNDERSTAND → IMPROVE**
 
 I don't want a project to look finished simply because the interface looks finished. I'm interested in what happens underneath it, where assumptions fail, and how the implementation can become more correct, usable, maintainable, or reliable.
 
-## <span style="color:#4632DA">02 / WORK</span>
+## 02 / WORK
 
-### <span style="color:#06D9FA">FEATURED / TECH STACK ARCHITECT</span>
+### FEATURED / TECH STACK ARCHITECT
 
-**<span style="color:#06D9FA">`LIVE · PUBLISHED`</span>**
+**`LIVE · PUBLISHED`**
 
 A system for turning project requirements into **structured, explainable technology-stack recommendations and architecture blueprints**.
 
@@ -53,9 +55,9 @@ Its recommendation model is **deterministic and registry-based**, working from k
 
 **[OPEN PROJECT →](https://architect.ediccrew.com)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/tech-stack-architect)**
 
-### <span style="color:#06D9FA">ACTIVE / SHARP AI MAX</span>
+### ACTIVE / SHARP AI MAX
 
-**<span style="color:#06D9FA">`ACTIVE DEVELOPMENT`</span>**
+**`ACTIVE DEVELOPMENT`**
 
 A web-based AI content studio for generating content across multiple channels from a single workspace.
 
@@ -68,9 +70,9 @@ The current architecture uses a React/Vite frontend, an Express server, and Gemi
 
 **[OPEN PROJECT →](https://sharp-ai-max.vercel.app)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/Sharp-ai-max)**
 
-### <span style="color:#06D9FA">ACTIVE / EDICCREW</span>
+### ACTIVE / EDICCREW
 
-**<span style="color:#06D9FA">`ACTIVE`</span>**
+**`ACTIVE`**
 
 A technology-focused WordPress platform built around practical technology content, tools, experiments, development workflows, SEO, automation, and digital publishing.
 
@@ -81,9 +83,9 @@ Current work includes website cleanup, content organization, search visibility, 
 
 **[VISIT EDICCREW →](https://ediccrew.com)**
 
-### <span style="color:#06D9FA">CONCEPT / VIZUALMECHA STUDIO</span>
+### CONCEPT / VIZUALMECHA STUDIO
 
-**<span style="color:#06D9FA">`CONCEPT · EARLY PROJECT`</span>**
+**`CONCEPT · EARLY PROJECT`**
 
 An early project exploring the intersection of **mechatronics, software, 3D visualization, and engineering education**.
 
@@ -97,7 +99,7 @@ The current direction focuses on ideas around interactive technical visualizatio
 <details>
 <summary><strong>MORE PROJECTS</strong></summary>
 
-### <span style="color:#06D9FA">StoryPix</span>
+### StoryPix
 
 **`EARLY-STAGE`**
 
@@ -107,7 +109,7 @@ An AI-oriented creative application whose current feature set still requires sou
 
 [Repository →](https://github.com/davidifeanyicelestine586-arch/StoryPix)
 
-### <span style="color:#06D9FA">Ediccrew Workflow</span>
+### Ediccrew Workflow
 
 **`EARLY-STAGE`**
 
@@ -117,7 +119,7 @@ An Android project in the portfolio. Sensitive artifacts are deliberately exclud
 
 [Repository →](https://github.com/davidifeanyicelestine586-arch/Ediccrew-workflow)
 
-### <span style="color:#06D9FA">ToolStack Backend</span>
+### ToolStack Backend
 
 **`PROTOTYPE`**
 
@@ -127,7 +129,7 @@ A small FastAPI prototype that loads a tool registry and returns recommendations
 
 [Repository →](https://github.com/davidifeanyicelestine586-arch/toolstack-backend)
 
-### <span style="color:#06D9FA">My First Line of Code</span>
+### My First Line of Code
 
 **`ARCHIVED`**
 
@@ -139,7 +141,7 @@ A simple first web programming project preserved as an early marker in the progr
 
 </details>
 
-## <span style="color:#4632DA">03 / STACK</span>
+## 03 / STACK
 
 I organize tools by **what they help me build**, rather than treating a long list of technologies as a résumé.
 
@@ -162,9 +164,9 @@ Frontend technologies shape interfaces and application behavior. Backend and dat
 
 </details>
 
-## <span style="color:#4632DA">04 / ENGINEERING</span>
+## 04 / ENGINEERING
 
-### <span style="color:#06D9FA">SOFTWARE × MECHATRONICS</span>
+### SOFTWARE × MECHATRONICS
 
 Mechatronics gives me a systems-oriented way to think about software.
 
@@ -184,7 +186,7 @@ When working on a system, I tend to ask:
 
 This is the thread connecting my engineering studies with the software projects I build.
 
-### <span style="color:#06D9FA">CURRENT DIRECTION</span>
+### CURRENT DIRECTION
 
 - Building practical software projects
 - Improving frontend architecture and UX
@@ -193,7 +195,7 @@ This is the thread connecting my engineering studies with the software projects 
 - Connecting software with engineering concepts
 - Improving testing, debugging, and technical documentation
 
-## <span style="color:#4632DA">05 / CONTACT</span>
+## 05 / CONTACT
 
 If you're interested in the projects, technical direction, or the intersection between engineering and software:
 
@@ -206,7 +208,7 @@ If you're interested in the projects, technical direction, or the intersection b
 
 <div align="center">
 
-## <span style="color:#4632DA">Explore. Understand. Build.</span>
+## Explore. Understand. Build.
 
 <sub>Built around evidence, iteration, and practical systems.</sub>
 
