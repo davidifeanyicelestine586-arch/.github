@@ -6,7 +6,7 @@
 
 **I build practical software and technical systems by thinking in structures, interfaces, constraints, and behavior.**
 
-[Portfolio](https://david-ifeanyi-pi.vercel.app) · [GitHub](https://github.com/davidifeanyicelestine586-arch) · [LinkedIn](https://linkedin.com/in/davidify) · [Tech Stack Architect](https://architect.ediccrew.com)
+[Portfolio](https://david-ifeanyi-pi.vercel.app) · [GitHub](https://github.com/davidifeanyicelestine586-arch) · [LinkedIn](https://linkedin.com/in/davidify) · [Tech Stack Architect](https://tech-stack-architect.vercel.app/)
 
 </div>
 
@@ -61,7 +61,7 @@ Its recommendation model is **deterministic and registry-based**, working from k
 **Stack**  
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Supabase`
 
-**[OPEN PROJECT →](https://architect.ediccrew.com)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/tech-stack-architect)**
+**[OPEN PROJECT →](https://tech-stack-architect.vercel.app/)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/tech-stack-architect)**
 
 ### ACTIVE · SHARP AI MAX
 
