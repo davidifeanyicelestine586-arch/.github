@@ -10,7 +10,9 @@
 
 </div>
 
----
+<p align="center"><sub>SOFTWARE · SYSTEMS · ENGINEERING</sub></p>
+
+
 
 <p align="center">
   <a href="#01--about">ABOUT</a> ·
@@ -20,7 +22,7 @@
   <a href="#05--contact">CONTACT</a>
 </p>
 
----
+
 
 ## 01 / ABOUT
 
@@ -28,48 +30,46 @@ I'm David Ifeanyi, a Mechatronics Engineering student developing practical exper
 
 My work sits at the intersection of **software, technical systems, AI-assisted development, automation, and engineering**. I learn by building, debugging, testing assumptions, and understanding why a system behaves the way it does.
 
-That engineering background shapes how I approach software. I care about:
+That engineering background shapes how I approach software:
 
-- clear system structure
-- defined relationships between components
-- useful interfaces
-- testable behavior
-- maintainable implementations
-- technical decisions that can be explained
+| SYSTEM THINKING | WHAT IT MEANS IN PRACTICE |
+|---|---|
+| **Structure** | Clear relationships between components |
+| **Interfaces** | Useful, understandable interaction |
+| **Behavior** | Testable and observable outcomes |
+| **Reliability** | Assumptions challenged through debugging |
+| **Maintainability** | Decisions that another developer can understand |
 
 ### Build philosophy
 
-**Build → Break → Understand → Improve**
+**BUILD → BREAK → UNDERSTAND → IMPROVE**
 
 I don't want a project to look finished simply because the interface looks finished. I'm interested in what happens underneath it, where assumptions fail, and how the implementation can become more correct, usable, maintainable, or reliable.
 
----
+
 
 ## 02 / WORK
 
-### FEATURED / Tech Stack Architect
+### FEATURED / TECH STACK ARCHITECT
 
-**LIVE · Published**
+**`LIVE · PUBLISHED`**
 
 A system for turning project requirements into **structured, explainable technology-stack recommendations and architecture blueprints**.
 
-The distinctive part is the recommendation model: it is **deterministic and registry-based**, working from known technology metadata, dependencies, compatibility rules, recipes, and project constraints rather than asking an external AI service to invent a stack.
+Its recommendation model is **deterministic and registry-based**, working from known technology metadata, dependencies, compatibility rules, recipes, and project constraints rather than asking an external AI service to invent a stack.
 
-**Workflow**
+**DEFINE → ANALYZE → REVIEW → BUILD → VALIDATE → BLUEPRINT**
 
-DEFINE → ANALYZE → REVIEW → BUILD → VALIDATE → BLUEPRINT
+**Stack**  
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `shadcn/ui` · `Supabase`
 
-**Stack**
+**[OPEN PROJECT →](https://architect.ediccrew.com)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/tech-stack-architect)**
 
-Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Supabase
 
-**[Open the project →](https://architect.ediccrew.com)** · **[Source →](https://github.com/davidifeanyicelestine586-arch/tech-stack-architect)**
 
----
+### ACTIVE / SHARP AI MAX
 
-### ACTIVE / Sharp AI Max
-
-**ACTIVE DEVELOPMENT**
+**`ACTIVE DEVELOPMENT`**
 
 A web-based AI content studio for generating content across multiple channels from a single workspace.
 
@@ -77,96 +77,91 @@ The current implementation includes **Single Writer** and **Content Stacker** wo
 
 The current architecture uses a React/Vite frontend, an Express server, and Gemini for generation. Authentication, billing, and durable multi-user persistence are not yet implemented as production services.
 
-**Stack**
+**Stack**  
+`React` · `TypeScript` · `Vite` · `Express` · `Gemini` · `Tailwind CSS`
 
-React · TypeScript · Vite · Express · Gemini · Tailwind CSS
+**[OPEN PROJECT →](https://sharp-ai-max.vercel.app)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/Sharp-ai-max)**
 
-**[Open the project →](https://sharp-ai-max.vercel.app)** · **[Source →](https://github.com/davidifeanyicelestine586-arch/Sharp-ai-max)**
 
----
 
-### ACTIVE / Ediccrew
+### ACTIVE / EDICCREW
 
-**ACTIVE**
+**`ACTIVE`**
 
 A technology-focused WordPress platform built around practical technology content, tools, experiments, development workflows, SEO, automation, and digital publishing.
 
 Current work includes website cleanup, content organization, search visibility, technical troubleshooting, performance work, and monetization experiments.
 
-**Platform**
+**Platform**  
+`WordPress`
 
-WordPress
+**[VISIT EDICCREW →](https://ediccrew.com)**
 
-**[Visit Ediccrew →](https://ediccrew.com)**
 
----
 
-### CONCEPT / VizualMecha Studio
+### CONCEPT / VIZUALMECHA STUDIO
 
-**CONCEPT · EARLY PROJECT**
+**`CONCEPT · EARLY PROJECT`**
 
 An early project exploring the intersection of **mechatronics, software, 3D visualization, and engineering education**.
 
 The current direction focuses on ideas around interactive technical visualization and virtual laboratory experiences. Future capabilities remain planned until implemented and verified.
 
-**Focus**
+**Focus**  
+`Mechatronics` · `3D Visualization` · `Engineering Education`
 
-Mechatronics · 3D Visualization · Engineering Education
-
-**[Explore the repository →](https://github.com/davidifeanyicelestine586-arch/VizualMecha-Studio-)**
-
----
+**[EXPLORE REPOSITORY →](https://github.com/davidifeanyicelestine586-arch/VizualMecha-Studio-)**
 
 <details>
-<summary><strong>More projects</strong></summary>
+<summary><strong>MORE PROJECTS</strong></summary>
 
 ### StoryPix
 
-**EARLY-STAGE**
+**`EARLY-STAGE`**
 
 An AI-oriented creative application whose current feature set still requires source-level verification beyond the inherited repository README.
 
-React · Vite · TypeScript · Express
+`React` · `Vite` · `TypeScript` · `Express`
 
-[Repository](https://github.com/davidifeanyicelestine586-arch/StoryPix)
+[Repository →](https://github.com/davidifeanyicelestine586-arch/StoryPix)
 
 ### Ediccrew Workflow
 
-**EARLY-STAGE**
+**`EARLY-STAGE`**
 
 An Android project in the portfolio. Sensitive artifacts are deliberately excluded from portfolio content.
 
-Android · Gradle
+`Android` · `Gradle`
 
-[Repository](https://github.com/davidifeanyicelestine586-arch/Ediccrew-workflow)
+[Repository →](https://github.com/davidifeanyicelestine586-arch/Ediccrew-workflow)
 
 ### ToolStack Backend
 
-**PROTOTYPE**
+**`PROTOTYPE`**
 
 A small FastAPI prototype that loads a tool registry and returns recommendations using simple tag-in-query matching.
 
-Python · FastAPI
+`Python` · `FastAPI`
 
-[Repository](https://github.com/davidifeanyicelestine586-arch/toolstack-backend)
+[Repository →](https://github.com/davidifeanyicelestine586-arch/toolstack-backend)
 
 ### My First Line of Code
 
-**ARCHIVED**
+**`ARCHIVED`**
 
 A simple first web programming project preserved as an early marker in the progression toward larger systems.
 
-HTML · CSS · JavaScript
+`HTML` · `CSS` · `JavaScript`
 
-[Repository](https://github.com/davidifeanyicelestine586-arch/my-first-line-of-code)
+[Repository →](https://github.com/davidifeanyicelestine586-arch/my-first-line-of-code)
 
 </details>
 
----
+
 
 ## 03 / STACK
 
-I prefer organizing tools by **what they help me build**, rather than treating a long list of technologies as a résumé.
+I organize tools by **what they help me build**, rather than treating a long list of technologies as a résumé.
 
 | AREA | TECHNOLOGIES |
 |---|---|
@@ -179,19 +174,19 @@ I prefer organizing tools by **what they help me build**, rather than treating a
 | **ENGINEERING** | Mechatronics · Electronics · Embedded Systems · Control Systems · Arduino |
 
 <details>
-<summary><strong>How I use the stack</strong></summary>
+<summary><strong>HOW I USE THE STACK</strong></summary>
 
 I use these technologies as parts of systems rather than isolated tools.
 
-Frontend technologies help me shape interfaces and application behavior. Backend and data tools handle APIs, persistence, and application logic. Git and debugging support the development loop. Engineering technologies connect the software side of my work to physical systems and control concepts.
+Frontend technologies shape interfaces and application behavior. Backend and data tools handle APIs, persistence, and application logic. Git and debugging support the development loop. Engineering technologies connect the software side of my work to physical systems and control concepts.
 
 </details>
 
----
+
 
 ## 04 / ENGINEERING
 
-### Software × Mechatronics
+### SOFTWARE × MECHATRONICS
 
 Mechatronics gives me a systems-oriented way to think about software.
 
@@ -211,7 +206,7 @@ When working on a system, I tend to ask:
 
 This is the thread connecting my engineering studies with the software projects I build.
 
-### Current direction
+### CURRENT DIRECTION
 
 - Building practical software projects
 - Improving frontend architecture and UX
@@ -220,25 +215,20 @@ This is the thread connecting my engineering studies with the software projects 
 - Connecting software with engineering concepts
 - Improving testing, debugging, and technical documentation
 
----
+
 
 ## 05 / CONTACT
 
-If you're interested in the projects, technical direction, or the intersection between engineering and software, these are the best places to find me:
+If you're interested in the projects, technical direction, or the intersection between engineering and software:
 
-**Portfolio**  
-[View my portfolio →](https://david-ifeanyi-pi.vercel.app)
+| | |
+|---|---|
+| **PORTFOLIO** | [View my portfolio →](https://david-ifeanyi-pi.vercel.app) |
+| **GITHUB** | [Explore the repositories →](https://github.com/davidifeanyicelestine586-arch) |
+| **LINKEDIN** | [Connect on LinkedIn →](https://linkedin.com/in/davidify) |
+| **EDICCREW** | [Explore the publication →](https://ediccrew.com) |
 
-**GitHub**  
-[Explore the repositories →](https://github.com/davidifeanyicelestine586-arch)
 
-**LinkedIn**  
-[Connect on LinkedIn →](https://linkedin.com/in/davidify)
-
-**Ediccrew**  
-[Explore the publication →](https://ediccrew.com)
-
----
 
 <div align="center">
 
