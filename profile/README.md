@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./accent.svg" width="120" height="18" alt="" />
+
 # DAVID IFEANYI
 
 ### Mechatronics Engineering · Software & Web Development · Technical Systems
@@ -23,6 +25,8 @@
 </p>
 
 
+
+<img src="./accent.svg" width="80" height="12" alt="" />
 
 ## 01 / ABOUT
 
@@ -48,9 +52,11 @@ I don't want a project to look finished simply because the interface looks finis
 
 
 
+<img src="./accent.svg" width="80" height="12" alt="" />
+
 ## 02 / WORK
 
-### FEATURED / TECH STACK ARCHITECT
+### FEATURED · TECH STACK ARCHITECT
 
 **`LIVE · PUBLISHED`**
 
@@ -67,7 +73,7 @@ Its recommendation model is **deterministic and registry-based**, working from k
 
 
 
-### ACTIVE / SHARP AI MAX
+### ACTIVE · SHARP AI MAX
 
 **`ACTIVE DEVELOPMENT`**
 
@@ -84,7 +90,7 @@ The current architecture uses a React/Vite frontend, an Express server, and Gemi
 
 
 
-### ACTIVE / EDICCREW
+### ACTIVE · EDICCREW
 
 **`ACTIVE`**
 
@@ -99,7 +105,7 @@ Current work includes website cleanup, content organization, search visibility, 
 
 
 
-### CONCEPT / VIZUALMECHA STUDIO
+### CONCEPT · VIZUALMECHA STUDIO
 
 **`CONCEPT · EARLY PROJECT`**
 
@@ -159,6 +165,8 @@ A simple first web programming project preserved as an early marker in the progr
 
 
 
+<img src="./accent.svg" width="80" height="12" alt="" />
+
 ## 03 / STACK
 
 I organize tools by **what they help me build**, rather than treating a long list of technologies as a résumé.
@@ -183,6 +191,8 @@ Frontend technologies shape interfaces and application behavior. Backend and dat
 </details>
 
 
+
+<img src="./accent.svg" width="80" height="12" alt="" />
 
 ## 04 / ENGINEERING
 
@@ -217,6 +227,8 @@ This is the thread connecting my engineering studies with the software projects 
 
 
 
+<img src="./accent.svg" width="80" height="12" alt="" />
+
 ## 05 / CONTACT
 
 If you're interested in the projects, technical direction, or the intersection between engineering and software:
@@ -231,6 +243,8 @@ If you're interested in the projects, technical direction, or the intersection b
 
 
 <div align="center">
+
+<img src="./accent.svg" width="100" height="15" alt="" />
 
 **Explore. Understand. Build.**
 
