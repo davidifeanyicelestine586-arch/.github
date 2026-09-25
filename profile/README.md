@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./accent.svg" width="120" height="18" alt="" />
-
 # DAVID IFEANYI
 
 ### Mechatronics Engineering · Software & Web Development · Technical Systems
@@ -14,8 +12,6 @@
 
 <p align="center"><sub>SOFTWARE · SYSTEMS · ENGINEERING</sub></p>
 
-
-
 <p align="center">
   <a href="#01--about">ABOUT</a> ·
   <a href="#02--work">WORK</a> ·
@@ -24,9 +20,7 @@
   <a href="#05--contact">CONTACT</a>
 </p>
 
-
-
-<img src="./accent.svg" width="80" height="12" alt="" />
+<p align="center"><img src="https://raw.githubusercontent.com/davidifeanyicelestine586-arch/.github/main/profile/accent.svg" width="80" height="12" alt="" /></p>
 
 ## 01 / ABOUT
 
@@ -50,9 +44,7 @@ That engineering background shapes how I approach software:
 
 I don't want a project to look finished simply because the interface looks finished. I'm interested in what happens underneath it, where assumptions fail, and how the implementation can become more correct, usable, maintainable, or reliable.
 
-
-
-<img src="./accent.svg" width="80" height="12" alt="" />
+<p align="center"><img src="https://raw.githubusercontent.com/davidifeanyicelestine586-arch/.github/main/profile/accent.svg" width="80" height="12" alt="" /></p>
 
 ## 02 / WORK
 
@@ -71,8 +63,6 @@ Its recommendation model is **deterministic and registry-based**, working from k
 
 **[OPEN PROJECT →](https://architect.ediccrew.com)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/tech-stack-architect)**
 
-
-
 ### ACTIVE · SHARP AI MAX
 
 **`ACTIVE DEVELOPMENT`**
@@ -88,8 +78,6 @@ The current architecture uses a React/Vite frontend, an Express server, and Gemi
 
 **[OPEN PROJECT →](https://sharp-ai-max.vercel.app)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/Sharp-ai-max)**
 
-
-
 ### ACTIVE · EDICCREW
 
 **`ACTIVE`**
@@ -102,8 +90,6 @@ Current work includes website cleanup, content organization, search visibility, 
 `WordPress`
 
 **[VISIT EDICCREW →](https://ediccrew.com)**
-
-
 
 ### CONCEPT · VIZUALMECHA STUDIO
 
@@ -163,9 +149,7 @@ A simple first web programming project preserved as an early marker in the progr
 
 </details>
 
-
-
-<img src="./accent.svg" width="80" height="12" alt="" />
+<p align="center"><img src="https://raw.githubusercontent.com/davidifeanyicelestine586-arch/.github/main/profile/accent.svg" width="80" height="12" alt="" /></p>
 
 ## 03 / STACK
 
@@ -190,9 +174,7 @@ Frontend technologies shape interfaces and application behavior. Backend and dat
 
 </details>
 
-
-
-<img src="./accent.svg" width="80" height="12" alt="" />
+<p align="center"><img src="https://raw.githubusercontent.com/davidifeanyicelestine586-arch/.github/main/profile/accent.svg" width="80" height="12" alt="" /></p>
 
 ## 04 / ENGINEERING
 
@@ -225,9 +207,7 @@ This is the thread connecting my engineering studies with the software projects 
 - Connecting software with engineering concepts
 - Improving testing, debugging, and technical documentation
 
-
-
-<img src="./accent.svg" width="80" height="12" alt="" />
+<p align="center"><img src="https://raw.githubusercontent.com/davidifeanyicelestine586-arch/.github/main/profile/accent.svg" width="80" height="12" alt="" /></p>
 
 ## 05 / CONTACT
 
@@ -240,11 +220,7 @@ If you're interested in the projects, technical direction, or the intersection b
 | **LINKEDIN** | [Connect on LinkedIn →](https://linkedin.com/in/davidify) |
 | **EDICCREW** | [Explore the publication →](https://ediccrew.com) |
 
-
-
 <div align="center">
-
-<img src="./accent.svg" width="100" height="15" alt="" />
 
 **Explore. Understand. Build.**
 
