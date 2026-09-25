@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="24" viewBox="0 0 160 24" role="img" aria-label="Connected systems accent">
+<path d="M8 12h34M118 12h34M42 12l12-8M42 12l12 8M118 12l-12-8M118 12l-12 8" fill="none" stroke="#4632DA" stroke-width="2" stroke-linecap="round"/>
+<circle cx="42" cy="12" r="5" fill="#4632DA"/>
+<circle cx="80" cy="12" r="5" fill="#06D9FA"/>
+<circle cx="118" cy="12" r="5" fill="#4632DA"/>
+<path d="M54 12h21M85 12h21" stroke="#06D9FA" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
