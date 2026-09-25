@@ -212,14 +212,14 @@ This is the thread connecting my engineering studies with the software projects 
 ## 05 / CONTACT
 
 If you're interested in the projects, technical direction, or the intersection between engineering and software:
-
+<div align="center">
 | | |
 |---|---|
 | **PORTFOLIO** | [View my portfolio →](https://david-ifeanyi-pi.vercel.app) |
 | **GITHUB** | [Explore the repositories →](https://github.com/davidifeanyicelestine586-arch) |
 | **LINKEDIN** | [Connect on LinkedIn →](https://linkedin.com/in/davidify) |
 | **EDICCREW** | [Explore the publication →](https://ediccrew.com) |
-
+</div>
 <div align="center">
 
 **Explore. Understand. Build.**
