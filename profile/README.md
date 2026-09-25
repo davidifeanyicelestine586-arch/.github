@@ -40,7 +40,7 @@ I don't want a project to look finished simply because the interface looks finis
 
 ## 02 / WORK
 
-### FEATURED / TECH STACK ARCHITECT
+### FEATURED · TECH STACK ARCHITECT
 
 **`LIVE · PUBLISHED`**
 
@@ -55,7 +55,7 @@ Its recommendation model is **deterministic and registry-based**, working from k
 
 **[OPEN PROJECT →](https://architect.ediccrew.com)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/tech-stack-architect)**
 
-### ACTIVE / SHARP AI MAX
+### ACTIVE · SHARP AI MAX
 
 **`ACTIVE DEVELOPMENT`**
 
@@ -70,7 +70,7 @@ The current architecture uses a React/Vite frontend, an Express server, and Gemi
 
 **[OPEN PROJECT →](https://sharp-ai-max.vercel.app)** · **[SOURCE →](https://github.com/davidifeanyicelestine586-arch/Sharp-ai-max)**
 
-### ACTIVE / EDICCREW
+### ACTIVE · EDICCREW
 
 **`ACTIVE`**
 
@@ -83,7 +83,7 @@ Current work includes website cleanup, content organization, search visibility, 
 
 **[VISIT EDICCREW →](https://ediccrew.com)**
 
-### CONCEPT / VIZUALMECHA STUDIO
+### CONCEPT · VIZUALMECHA STUDIO
 
 **`CONCEPT · EARLY PROJECT`**
 
